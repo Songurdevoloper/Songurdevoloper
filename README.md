@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammed - aka [Songurdeveloper] 👋
+### Hi there, I'm Muhammed Songur - aka [Songurdeveloper] 👋
 
 
 ## I'm a Researcher, Musician, Traveller, Developer, and Teacher!!
