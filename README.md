@@ -18,8 +18,8 @@
 <br />
 
 
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC1dishXkDfWD_5XJX_Vk1Pw
+[instagram]: https://www.instagram.com/songur_technology/
+[linkedin]: https://www.linkedin.com/in/songur-technology-8610a621a/
 
 <br />
