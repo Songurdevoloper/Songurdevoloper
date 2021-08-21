@@ -19,7 +19,7 @@
 
 
 [youtube]: https://www.youtube.com/channel/UC1dishXkDfWD_5XJX_Vk1Pw
-[instagram]: https://instagram.com/songurdev
+[instagram]: https://instagram.com/songurtechnology
 [linkedin]: https://www.linkedin.com/in/songur-technology-8610a621a/
 
 <br />
